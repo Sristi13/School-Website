@@ -1,0 +1,32 @@
+
+a{
+    
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+}
+nav{
+    background-color: black;
+    padding: 20px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#video{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 280px;
+}
+#con{
+    height: 50%;
+    width: 50%;
+    border: 2px solid black;
+}
+.contact{
+    border: 2px solid black;
+}
+.pmam{
+    padding-bottom: 200px;
+    padding-left: 50px;
+}
